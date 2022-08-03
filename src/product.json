@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title" : "Sakız",
+        "price": 0.5,
+        "image": "https://st.myideasoft.com/idea/fz/30/myassets/products/144/saadet-makinali-sakiz-600-adet-li-5595-png.png?revision=1635515773"
+    }, 
+    {
+        "id": 2,
+        "title": "Kola",
+        "price": 6,
+        "image": "https://st3.myideasoft.com/idea/ei/75/myassets/products/986/coca-cola-330-ml-3198608.png?revision=1635531397"
+    },
+    {
+        "id": 3,
+        "title": "Ayakkabı",
+        "price": 400,
+        "image": "https://ayb.akinoncdn.com/products/2021/12/30/85867/cd50db3d-3a35-4e5e-b527-ababec6d69f9.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Araba",
+        "price": 40000,
+        "image": "https://www.locopoco.com/ProductImages/157945/big/45946_maisto-1-18-lamborghini-huracan-performante_3.jpg"
+    }
+]
