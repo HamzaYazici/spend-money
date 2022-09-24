@@ -1,4 +1,4 @@
-Spend-Money Product
+# Shopping Cart Project
 
 This project developed with React.js
 
